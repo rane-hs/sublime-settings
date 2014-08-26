@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"CTags",
+		"Cython+",
+		"IMESupport",
+		"Markdown Preview",
+		"Markmon real-time markdown preview",
+		"PackageResourceViewer",
+		"Python 3",
+		"Python Flake8 Lint",
+		"SublimePythonIDE",
+		"Theme - itg.flat",
+		"Theme - Nexus"
+	]
+}
