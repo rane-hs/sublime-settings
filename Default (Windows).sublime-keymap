@@ -1,0 +1,10 @@
+[
+  {
+    "command": "python_goto_definition",
+    "keys": ["ctrl+t", "ctrl+t"]
+  },
+  {
+    "command": "python_get_documentation",
+    "keys": ["ctrl+alt+d"]
+  }
+]
