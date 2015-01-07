@@ -1,14 +1,23 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
-		"CTags",
 		"Cython+",
 		"IMESupport",
 		"Markdown Preview",
 		"Markmon real-time markdown preview",
+		"Package Control",
 		"PackageResourceViewer",
 		"Python 3",
 		"Python Flake8 Lint",
+		"sublime-github",
 		"SublimePythonIDE",
 		"Theme - itg.flat",
 		"Theme - Nexus"
